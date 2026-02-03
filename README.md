@@ -1,7 +1,8 @@
 ### Hi, I'm Nicolás 
 
-<div align="center">
 **Systems Engineering · 5th Semester**
+
+<div align="center">
 
 I work with data and software to solve real-world problems.
 Clear documentation, explained technical decisions, and continuous improvement.
