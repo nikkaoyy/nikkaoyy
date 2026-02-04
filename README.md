@@ -23,4 +23,5 @@ Clear documentation, explained technical decisions, and continuous improvement.
 - 🛠️ I develop robust APIs with documentation and testing
 - 📊 I create visualizations that communicate technical insights
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkaoyy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikkaoyy&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true)](https://github.com/nikkaoyy)
+
