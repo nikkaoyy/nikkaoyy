@@ -16,7 +16,7 @@ Clear documentation, explained technical decisions, and continuous improvement.
 
 ---
 
-
+<div align = center>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas--Martinez--Pineda-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-martínez-pineda-251184232)
 [![Email](https://img.shields.io/badge/Email-nico35134%40gmail.com-red?logo=gmail&logoColor=white)](mailto:nico35134@gmail.com)
@@ -36,6 +36,6 @@ Clear documentation, explained technical decisions, and continuous improvement.
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/nicolasmartinezpineda)
 
-
+</div>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
