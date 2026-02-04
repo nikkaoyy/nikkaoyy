@@ -22,3 +22,5 @@ Clear documentation, explained technical decisions, and continuous improvement.
 - 🤖 I build ML models with a focus on explainability and maintainability
 - 🛠️ I develop robust APIs with documentation and testing
 - 📊 I create visualizations that communicate technical insights
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkaoyy)](https://github.com/anuraghazra/github-readme-stats)
