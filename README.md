@@ -13,3 +13,12 @@ Clear documentation, explained technical decisions, and continuous improvement.
 [![Credly Profile](https://img.shields.io/badge/Credly-Profile-orange?logo=credly&logoColor=white)](https://www.credly.com/users/nicolas-martinez-pineda.73fb0e25)
 
 </div>
+
+---
+
+## 🎯 What I do
+
+- 🔍 I design data pipelines that automate manual processes
+- 🤖 I build ML models with a focus on explainability and maintainability
+- 🛠️ I develop robust APIs with documentation and testing
+- 📊 I create visualizations that communicate technical insights
