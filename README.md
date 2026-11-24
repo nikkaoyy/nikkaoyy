@@ -1,96 +1,35 @@
-# Hi, I'm Nicolás 👋
+# Nicolás Martínez
 
-**Systems Engineering · 5th Semester**
+**Ingeniería de Sistemas · Universidad Distrital Francisco José de Caldas · Bogotá**
+Desarrollador independiente en **Synkro**.
 
-I build systems that solve real problems with data and code.  
-Focus on clear documentation, justified technical decisions, and continuous improvement.
+Construyo sistemas que se pueden operar de punta a punta: el modelo, el servicio, la interfaz y las pruebas que dicen
+si de verdad funciona. Me interesa el aprendizaje automático aplicado a problemas concretos —ganadería, redes,
+predicción— y la infraestructura que hace falta para que eso viva fuera de un cuaderno.
 
----
+Mi proyecto central es **ARIA**, un sistema personal que organiza mi vida sobre una bóveda de notas propia: tareas,
+estudio, finanzas, un catálogo de despensa, prospección de clientes y un mapa 3D de lo que aprendo. La idea de un
+asistente que decide y recuerda nace de **JARVIS**; mis agentes —cada uno con su oficio— nacen de juntar ideas de varias
+inteligencias artificiales que fui conociendo, no de copiar a una sola.
 
-## 🚀 Featured Projects
+## Proyectos
 
-### 🔍 [Anomaly Detection System for Server Logs]
-**Problem**: Identify unusual patterns in server logs to prevent failures  
-**Stack**: `Python` `scikit-learn` `Docker` `FastAPI`  
-**Highlights**:
-- Custom preprocessing pipeline for log data
-- Real-time API for inference
-- Documented model selection process
+**[IDS_IA](https://github.com/nikkaoyy/IDS_IA)** — detección de intrusiones en red con aprendizaje automático:
+captura de tráfico, ventanas de tiempo, modelo XGBoost y una capa de identidad por dispositivo. Trabajo de *Modelos de
+Programación*.
+`Python` `scikit-learn` `XGBoost` `pcap`
 
-**Status**: 🚧 Optimizing false positive rate  
-📂 [View repository](#) | 📝 [Documentation](#)
+**[Prediccion_MastitisBovina](https://github.com/nikkaoyy/Prediccion_MastitisBovina)** — predicción de mastitis
+subclínica en ganado lechero del altiplano cundiboyacense: modelo de riesgo, API y app, con protocolo de verdad de
+referencia y validación honesta. Investigación del grupo LIDER.
+`Python` `FastAPI` `SQLite` `ML`
 
----
+**[Forest-Type-Prediction](https://github.com/nikkaoyy/Forest-Type-Prediction)** — clasificación de la cobertura
+forestal del dataset de Kaggle, con selección de modelo y análisis de errores. Trabajo de *Análisis y Diseño de
+Sistemas*.
+`Python` `scikit-learn` `pandas`
 
-### 📊 [Automated Financial Data Pipeline]
-**Problem**: Replace 3-hour manual data collection process  
-**Stack**: `Python` `PostgreSQL` `Celery` `BeautifulSoup`  
-**Highlights**:
-- Resilient web scraping with error handling
-- Automated data validation
-- Scheduling with Celery
+## Cómo trabajo
 
-**Status**: ✅ Production-ready MVP  
-📂 [View repository](#) | 📝 [Documentation](#)
-
----
-
-### 🌐 [Content Recommendation API]
-**Problem**: Personalized content suggestions for learning platform  
-**Stack**: `FastAPI` `MongoDB` `Redis` `Docker`  
-**Highlights**:
-- Modular architecture
-- Smart caching strategy
-- OpenAPI documentation
-
-**Status**: 📋 Next: A/B testing framework  
-📂 [View repository](#)
-
----
-
-## 🛠️ Technical Stack
-
-**Languages & Core**  
-`Python` `SQL` `C/C++` `Java`
-
-**Data & ML**  
-`Pandas` `NumPy` `scikit-learn` `TensorFlow` `Matplotlib` `MLflow`
-
-**Backend & Databases**  
-`FastAPI` `Node.js` `React` `Next.js` `PostgreSQL` `MySQL` `SQLite`
-
-**DevOps & Tools**  
-`Docker` `Git` `GitHub` `Azure`
-
-> 💡 Each technology is learned in context of solving specific problems, not as isolated study.
-
----
-
-## 🗺️ Learning Roadmap
-
-**Currently exploring**  
-- [ ] Distributed systems architecture
-- [ ] CI/CD implementation in current projects
-- [ ] Cloud deployment (AWS/Azure)
-
-**Upcoming**  
-- [ ] Deep Learning for computer vision
-- [ ] Database optimization techniques
-
----
-
-## 📫 Contact
-
-Want to collaborate on a project or discuss tech?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas--Martinez--Pineda-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-martínez-pineda-251184232)
-[![Email](https://img.shields.io/badge/Email-nico35134%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:nico35134@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?logo=credly&logoColor=white)](https://www.credly.com/users/nicolas-martinez-pineda.73fb0e25)
-
----
-
-<div align="center">
-
-*"Every line of code is a decision. I document mine."*
-
-</div>
+Documento las decisiones y su motivo, mido antes de afirmar, y dejo en cada repo cómo correrlo y qué pruebas lo
+respalda. Lo que no está probado, lo digo.
